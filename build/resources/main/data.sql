@@ -1,0 +1,1 @@
+insert into station (station_id, name, hd_enabled, call_sign) values ('90.5', 'Austin"s NPR Station', false, 'KUT');
